@@ -1,4 +1,4 @@
-# 📝 BlogHub
+# 📝 Blog-app
 
 A modern *full-stack blogging platform* built with *React, Redux Toolkit, Tailwind CSS, and Appwrite*. BlogHub enables users to securely create, edit, delete, and manage blog posts with image uploads and rich text editing.
 
