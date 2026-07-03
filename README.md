@@ -6,7 +6,7 @@ A modern *full-stack blogging platform* built with *React, Redux Toolkit, Tailwi
 
 🔗 deployed link :
 
-blog-goii3oj0f-vanshita-dev.vercel.app
+https://blog-app-xi-ashen-37.vercel.app
 
 ---
 
